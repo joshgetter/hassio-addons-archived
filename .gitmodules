@@ -1,0 +1,3 @@
+[submodule "addon-node-red"]
+	path = addon-node-red
+	url = git@github.com:joshgetter/addon-node-red.git
